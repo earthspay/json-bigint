@@ -1,5 +1,5 @@
 {
-  "name": "@waves/json-bigint",
+  "name": "@earths/json-bigint",
   "version": "0.2.3",
   "description": "JSON.parse with bigints support",
   "main": "index.js",
